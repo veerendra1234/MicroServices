@@ -1,5 +1,5 @@
 package com.crudops;
 
-public class newOps {
+public class Example {
 
 }
