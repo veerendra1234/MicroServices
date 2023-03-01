@@ -19,7 +19,7 @@ public class CrudOperationApplication {
 	public static void main(String[] args) {
 		ApplicationContext Context = SpringApplication.run(CrudOperationApplication.class, args);
 		UserRepository userRepository=Context.getBean(UserRepository.class);
-		
+		System.out.println("git learning");
 //		User user=new User();
 //		user.setName("Veerendra");
 //		user.setCity("Indore");
